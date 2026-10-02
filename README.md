@@ -79,7 +79,7 @@ The working principle of LinkedIn is based on creating a **professional online p
     Open the completed profile and check how the information appears to other users. Ensure that the important sections are complete, easy to read, properly organized, and presented in a professional manner.
 
 19. **Maintain the Profile:**  
-    Keep the LinkedIn profile updated by adding new projects, skills, certifications, internships, achievements, and other relevant professional experiences as they are completed.## SAMPLE OUTPUT SCREEN
+    Keep the LinkedIn profile updated by adding new projects, skills, certifications, internships, achievements, and other relevant professional experiences as they are completed.
 
 ## SAMPLE OUTPUT SCREEN
 The screen below shows a sample completed LinkedIn profile page, illustrating how the name, headline, About section, and Experience section appear once the profile has been filled in.
